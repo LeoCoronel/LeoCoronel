@@ -1,9 +1,7 @@
 ### Hi i'm Leonardo | [website]
 
 ## I'm a FrontEnd developer, student and a creative person.
-- 🔭 I’m currently working on [website]!
 - 🌱 I’m currently learning React JS
-- 🥅 2021 Goals: Get my first job as a FrontEnd developer
 - ⚡ Fun fact: I love sports, gaming and i'm also a volunteer firefighter
 
 ### Connect with me !
